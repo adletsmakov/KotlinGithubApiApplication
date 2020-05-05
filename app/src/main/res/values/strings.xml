@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KotlinGithubApiApplication</string>
+    <string name="name_string">"Name:"</string>
+    <string name="forks_string">Forks:</string>
+    <string name="watchers_string">Watchers:</string>
+    <string name="lang_string">Language:</string>
+    <string name="search_repos">Search Repos</string>
+</resources>
